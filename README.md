@@ -10,6 +10,8 @@
 
 🪴 Accessibility champion, CPAAC & WAS certs in progress
 
+🔔 First place, 2022 Into Design Systems Hackathon
+
 ### Skills & Interests
 <img alt="design systems" src="https://img.shields.io/badge/Design Systems-0D1B36"> <img alt="typescript" src="https://img.shields.io/badge/Typescript-50A1B2"> <img alt="accessibility" src="https://img.shields.io/badge/Accessibility-1C5963"> <img alt="WCAG 2.1" src="https://img.shields.io/badge/WCAG 2.1-554949"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-3B6B4C"> <img alt="SCSS" src="https://img.shields.io/badge/SCSS-31677F">
 
