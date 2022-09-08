@@ -1,10 +1,10 @@
-<img width="500px" alt="" src="https://user-images.githubusercontent.com/21375185/189189766-89615af1-d9dd-46b4-877f-d36594c934cc.png">
+<img width="650px" alt="" src="https://user-images.githubusercontent.com/21375185/189189766-89615af1-d9dd-46b4-877f-d36594c934cc.png">
 
 ### Hey! I'm Sarah with an 'h'
 
 🌱 Pronouns: she/her
 
-🌿 Design Systems engineer for ~3.5 years
+🌿 Design Systems engineer for ~3.5 years, previously at GoodRx & Fidelity Investments
 
 🍂 Frontend engineer for ~6 years
 
