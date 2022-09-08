@@ -1,16 +1,16 @@
-### Hi there 👋
+<img width="500px" alt="" src="https://user-images.githubusercontent.com/21375185/189189766-89615af1-d9dd-46b4-877f-d36594c934cc.png">
 
-<!--
-**sarahvharris/sarahvharris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hey! I'm Sarah with an 'h'
 
-Here are some ideas to get you started:
+🌱 Pronouns: she/her
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌿 Design Systems engineer for ~3.5 years
+
+🍂 Frontend engineer for ~6 years
+
+🪴 Accessibility champion, CPAAC & WAS certs in progress
+
+### Skills & Interests
+<img alt="design systems" src="https://img.shields.io/badge/Design Systems-0D1B36"> <img alt="typescript" src="https://img.shields.io/badge/Typescript-50A1B2"> <img alt="accessibility" src="https://img.shields.io/badge/Accessibility-1C5963"> <img alt="WCAG 2.1" src="https://img.shields.io/badge/WCAG 2.1-554949"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-3B6B4C"> <img alt="SCSS" src="https://img.shields.io/badge/SCSS-31677F">
+
+<img alt="React" src="https://img.shields.io/badge/React-90CED7">  <img alt="styled system" src="https://img.shields.io/badge/styled system-4E4549"> <img alt="Web Components" src="https://img.shields.io/badge/Web Components-336F47"> <img alt="CSS" src="https://img.shields.io/badge/CSS-193C5D">
