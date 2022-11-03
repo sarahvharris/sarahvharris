@@ -4,7 +4,7 @@
 
 🌱 Pronouns: she/her
 
-🌿 Design Systems engineer for ~3.5 years, previously at GoodRx & Fidelity Investments
+🌿 Design Systems engineer for ~3.5 years, formerly @ GoodRx & Fidelity Investments
 
 🍂 Frontend engineer for ~6 years
 
