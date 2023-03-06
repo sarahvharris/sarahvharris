@@ -4,7 +4,9 @@
 
 🌱 Pronouns: she/her
 
-🌿 Design Systems engineer for ~3.5 years, currently @ Gusto & formerly @ GoodRx & Fidelity Investments
+🌿 Design Systems engineer for ~3.5 years, currently @ Gusto
+
+🌼 Formerly @ GoodRx & Fidelity Investments
 
 🍂 Frontend engineer for ~6 years
 
