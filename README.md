@@ -21,4 +21,4 @@
 
 ## Certification badges
 
-[https://www.credly.com/badges/d39a024e-8732-42d3-a1ec-2d8007af9fc2/public_url](IAAP Certified Professionals in Accessibility Core Competencies (CPACC) | Credly)
+[IAAP Certified Professionals in Accessibility Core Competencies (CPACC) | Credly](https://www.credly.com/badges/d39a024e-8732-42d3-a1ec-2d8007af9fc2/public_url)
