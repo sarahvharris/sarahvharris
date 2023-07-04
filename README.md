@@ -21,4 +21,4 @@
 
 ## Certification badges
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d39a024e-8732-42d3-a1ec-2d8007af9fc2" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+(https://www.credly.com/badges/d39a024e-8732-42d3-a1ec-2d8007af9fc2/public_url)[IAAP Certified Professionals in Accessibility Core Competencies (CPACC) | Credly]
