@@ -4,11 +4,11 @@
 
 🌱 Pronouns: she/her
 
-🌿 Design Systems engineer for ~3.5 years, currently @ Gusto
+🌿 Design Systems engineer for ~4.5 years, currently @ Gusto
 
 🌼 Formerly @ GoodRx & Fidelity Investments
 
-🍂 Frontend engineer for ~6 years
+🍂 Frontend engineer for ~7 years
 
 🪴 CPACC | Accessibility champion | WAS cert in progress
 
