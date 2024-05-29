@@ -10,7 +10,7 @@
 
 🍂 Frontend engineer for ~7 years
 
-🪴 CPACC | Accessibility champion | WAS cert in progress
+🪴 CPWA (CPACC & WAS) | Accessibility champion
 
 🔔 First place, 2022 Into Design Systems Hackathon
 
